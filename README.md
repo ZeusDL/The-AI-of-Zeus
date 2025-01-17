@@ -5,6 +5,7 @@
 
 Contents:
 Prompts: 📝 A detailed list of prompts utilized in generating the Zeus image, categorized for easy reference.
+
 Zeus Character Description: 📜 An overview of Zeus's role in Greek mythology, his appearance, symbols, and notable stories.
 
 Key Prompting Techniques:
