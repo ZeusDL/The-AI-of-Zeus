@@ -1,16 +1,52 @@
-Prompts Used:
-1. Generate an image of Zeus striding across the clouds, his himation billowing behind him. He carries himself with an air of effortless power, his gaze fixed on the horizon. In one hand, he holds a lightning bolt, its jagged edges reflecting the stormy sky. Capture the sense of motion and the feeling of immense power as he moves across his celestial domain
+Zeus: A Collection of AI Art Prompts
 
-2. Generate an image of Zeus in mid-stride, hurling a lightning bolt towards a cowering Titan. His muscles are flexed, his face contorted in a mask of fury. The lightning bolt streaks across the sky, leaving a trail of crackling energy in its wake. Capture the raw power and dynamic energy of the moment, conveying the sheer force of Zeus's divine wrath.
+**Prompt 1: Zeus in Motion**
 
-3. Generate an image of Zeus, the King of the Gods, in a majestic pose. He should have a strong, athletic build with a dark beard and flowing hair. He wears a flowing white chiton and himation, or is depicted nude, showcasing his muscular physique. He holds a lightning bolt in one hand like a javelin and a royal scepter in the other. An eagle perches nearby, and a wreath of olive leaves crowns his head. Depict him on his throne atop Mount Olympus, surrounded by clouds and other divine symbols. The throne should be ornately decorated and guarded by winged spirits. His expression should convey authority, wisdom, and a hint of powerful wrath.
+* Generate an image of Zeus striding across the clouds, his himation billowing behind him. 
+* He carries himself with an air of effortless power, his gaze fixed on the horizon. 
+* In one hand, he holds a lightning bolt, its jagged edges reflecting the stormy sky. 
+* Capture the sense of motion and the feeling of immense power as he moves across his celestial domain. 
 
-4. Generate an image of Zeus, the King of the Gods, sitting alone upon his throne atop Mount Olympus. He is a powerful figure, his age evident in the lines etched upon his face and the streaks of gray in his long, flowing white hair. His muscular physique is still evident beneath the folds of his simple, linen chiton. He wears a wreath of olive leaves, a symbol of both peace and his past victories.
+**Prompt 2: Zeus's Wrath**
 
-In one hand, he casually holds a lightning bolt, its jagged edges reflecting the stormy clouds gathering on the horizon. The other hand rests upon the armrest of his obsidian throne, its surface cool and smooth beneath his touch.  He gazes out across his domain, his expression a mixture of weariness and a quiet, simmering power. The weight of his divine responsibilities rests upon his shoulders, a constant pressure that he bears with a weary grace. He is a god, but also a man, burdened by the weight of his immortality and the endless cycle of divine affairs.
+* Generate an image of Zeus in mid-stride, hurling a lightning bolt towards a cowering Titan. 
+* His muscles are flexed, his face contorted in a mask of fury. 
+* The lightning bolt streaks across the sky, leaving a trail of crackling energy in its wake. 
+* Capture the raw power and dynamic energy of the moment, conveying the sheer force of Zeus's divine wrath.
 
-5. Generate an image of Zeus, the King of the Gods, sitting upon his throne atop Mount Olympus. He is a figure of awe-inspiring power, his age lending him an air of timeless authority. His long, white hair and beard flow dramatically in the wind, framing a face etched with strength and wisdom. His muscular physique is evident beneath the folds of his white himation, which billows around him like a storm cloud.
+**Prompt 3: The Majestic Zeus**
 
-He sits upon a throne of polished obsidian, carved with intricate depictions of his triumphs. In one hand, he grips a lightning bolt, its jagged edges crackling with energy. The other hand rests upon the armrest, adorned with the head of a vanquished Titan.
+* Generate an image of Zeus, the King of the Gods, in a majestic pose. 
+* He should have a strong, athletic build with a dark beard and flowing hair. 
+* He wears a flowing white chiton and himation, or is depicted nude, showcasing his muscular physique. 
+* He holds a lightning bolt in one hand like a javelin and a royal scepter in the other. 
+* An eagle perches nearby, and a wreath of olive leaves crowns his head. 
+* Depict him on his throne atop Mount Olympus, surrounded by clouds and other divine symbols. 
+* The throne should be ornately decorated and guarded by winged spirits. 
+* His expression should convey authority, wisdom, and a hint of powerful wrath.
 
-Below, the clouds swirl and churn, mirroring the tempestuous power within him. The sky above is a vibrant canvas of blues, purples, and golds, reflecting the majesty of his domain. His gaze is fixed upon the horizon, a look of both serene confidence and boundless power in his eyes. He is the King of the Gods, and his presence commands respect and awe.
+**Prompt 4: Contemplative Zeus**
+
+* Generate an image of Zeus, the King of the Gods, sitting alone upon his throne atop Mount Olympus. 
+* He is a powerful figure, his age evident in the lines etched upon his face and the streaks of gray in his long, flowing white hair. 
+* His muscular physique is still evident beneath the folds of his simple, linen chiton. 
+* He wears a wreath of olive leaves, a symbol of both peace and his past victories.
+* In one hand, he casually holds a lightning bolt, its jagged edges reflecting the stormy clouds gathering on the horizon. 
+* The other hand rests upon the armrest of his obsidian throne, its surface cool and smooth beneath his touch. 
+* He gazes out across his domain, his expression a mixture of weariness and a quiet, simmering power. 
+* The weight of his divine responsibilities rests upon his shoulders, a constant pressure that he bears with a weary grace. 
+* He is a god, but also a man, burdened by the weight of his immortality and the endless cycle of divine affairs.
+
+**Prompt 5: The Omnipotent Zeus**
+
+* Generate an image of Zeus, the King of the Gods, sitting upon his throne atop Mount Olympus. 
+* He is a figure of awe-inspiring power, his age lending him an air of timeless authority. 
+* His long, white hair and beard flow dramatically in the wind, framing a face etched with strength and wisdom. 
+* His muscular physique is evident beneath the folds of his white himation, which billows around him like a storm cloud.
+* He sits upon a throne of polished obsidian, carved with intricate depictions of his triumphs. 
+* In one hand, he grips a lightning bolt, its jagged edges crackling with energy. 
+* The other hand rests upon the armrest, adorned with the head of a vanquished Titan.
+* Below, the clouds swirl and churn, mirroring the tempestuous power within him. 
+* The sky above is a vibrant canvas of blues, purples, and golds, reflecting the majesty of his domain. 
+* His gaze is fixed upon the horizon, a look of both serene confidence and boundless power in his eyes. 
+* He is the King of the Gods, and his presence commands respect and awe.
