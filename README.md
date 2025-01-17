@@ -4,9 +4,10 @@
 🌩️ This repository contains a collection of prompts used to generate an artistic representation of Zeus, the king of the Greek gods. Explore the creative process behind the image creation and delve into the rich mythology surrounding Zeus, including his attributes, symbols, and significant myths, using AI art tool DALL-E 2.
 
 Contents:
-Prompts: 📝 A detailed list of prompts utilized in generating the Zeus image, categorized for easy reference.
 
-Zeus Character Description: 📜 An overview of Zeus's role in Greek mythology, his appearance, symbols, and notable stories.
+**Prompts**: 📝 A detailed list of prompts utilized in generating the Zeus image, categorized for easy reference.
+
+**Zeus Character Description**: 📜 An overview of Zeus's role in Greek mythology, his appearance, symbols, and notable stories.
 
 Key Prompting Techniques:
 
