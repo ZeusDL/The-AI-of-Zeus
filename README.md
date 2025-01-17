@@ -18,7 +18,8 @@ Key Prompting Techniques:
 5. **Implied Negatives:** 🚫 Guiding the AI towards desired outcomes.
    
 **Feel free to experiment with these prompts and create your own unique interpretations of the mighty Zeus!**
-[View AI-Generated Zeus Image 1](<https://drive.google.com/drive/folders/1l_P4s6c7kJEjTwiff7v3h2Rx5vxu5uyX?usp=sharing>)
+
+[View AI-Generated Zeus Image](<https://drive.google.com/drive/folders/1l_P4s6c7kJEjTwiff7v3h2Rx5vxu5uyX?usp=sharing>)
 
 **License**
 
